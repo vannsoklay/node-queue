@@ -1,0 +1,19 @@
+{
+  "name": "queue",
+  "version": "1.0.0",
+  "main": "queue",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "lay",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "bee-queue": "^1.2.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "redis": "^4.6.13"
+  }
+}
